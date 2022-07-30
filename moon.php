@@ -1,6 +1,6 @@
 {
 
-  "Version_update": "1.0",
+  "Version_update": "1.1",
 
   "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/moon.zip",
 
