@@ -2,7 +2,7 @@
 
   "Version_update": "1.0",
 
-  "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/File-version1.0.zip",
+  "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/moon.zip",
 
   "Password": "bewmaki11",
 
