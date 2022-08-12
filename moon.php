@@ -1,4 +1,4 @@
-{"Version_update": "1.6",
+{"Version_update": "1.7",
   "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/moon.zip",
   "Password": "bewmaki11",
   "Message": "⚠️ควรอ่านรายละเอียดก่อนใช้งาน
@@ -27,5 +27,5 @@
 🇹🇭 VIP TRUE -  1 server 
 🇹🇭 VIP DTAC -  1 server 
  
-รบกวนให้5ดาว⭐เพื่อเป็นกำลังใจให้แอดด้วยนะครับ
-°ヾ🧈ขอบคุณที่ใช้บริการแอพเรา🕯️"}
+รบกวนให้5ดาว⭐เพื่อเป็นกำลังใจให้แอดด้วยนะครับ 
+"}
