@@ -1,4 +1,4 @@
-{"Version_update": "2.0",
+{"Version_update": "2.1",
   "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/moon.zip",
   "Password": "bewmaki11",
   "Message": "⚠️ควรอ่านรายละเอียดก่อนใช้งาน
@@ -25,6 +25,6 @@
 🇬🇧 UK  DTAC -  3 server
 🇹🇭 VIP AIS  -  1 server 
 🇹🇭 VIP TRUE -  1 server 
-🇹🇭 VIP DTAC -  1 server 
+🇹🇭 VIP DTAC -  1 server
  
 รบกวนให้5ดาว⭐เพื่อเป็นกำลังใจให้แอดด้วยนะครับ "}
