@@ -1,4 +1,4 @@
-{"Version_update": "1.1",
+{"Version_update": "1.2",
   "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/Shark.zip",
   "Password": "bewmaki11",
   "Message": "⚠️ควรอ่านรายละเอียดก่อนใช้งาน
@@ -17,7 +17,7 @@
 
 ❥︎ เพิ่มเวลาครั้งละ 8 ชั่วโมง⏰
 ❥︎ ซิม TRUE DTAC AIS
-
+❥︎ หยุดเชื่อมต่อเวลาจะไม่ลด
 
  
 รบกวนให้5ดาว⭐เพื่อเป็นกำลังใจให้แอดด้วยนะครับ "}
