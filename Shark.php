@@ -1,4 +1,4 @@
-{"Version_update": "2.2",
+{"Version_update": "2.3",
   "Link_zip": "https://github.com/bewmaki/Moon-VPN/raw/main/Shark.zip",
   "Password": "bewmaki11",
   "Message": "🟣ควรอ่านรายละเอียดก่อนใช้งาน🟣
